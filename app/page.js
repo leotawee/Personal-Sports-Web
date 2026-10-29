@@ -469,7 +469,7 @@ export default function Home() {
                     className="w-8 h-8 bg-gradient-to-br from-cyan-400/50 to-blue-500/50 rounded-full flex items-center justify-center shadow transition-all"
                   >
                     <a
-                      href="https://www.facebook.com/vactuz/"
+                      href="https://www.facebook.com/leotawee/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
